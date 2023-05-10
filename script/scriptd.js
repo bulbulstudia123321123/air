@@ -24,7 +24,6 @@ let red_breack = new Audio();
 let blue_break = new Audio();
 let sam_fall = new Audio();
 
-
 fly.src = https://github.com/bulbulstudia123321123/air/blob/main/audio/subnautica_below_zero_Slow%20Burn.mp3;
 fly.loop = true;
 red_breack.src = https://github.com/bulbulstudia123321123/air/blob/main/audio/back2.mp3;
